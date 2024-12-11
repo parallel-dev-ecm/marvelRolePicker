@@ -8,7 +8,7 @@ import {
   setDoc,
   doc,
 } from "firebase/firestore";
-import { Button } from "@/components/ui/button";
+import { Button } from "./components/ui/button";
 
 interface Player {
   id: string;
